@@ -7,16 +7,13 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://1199692.github.io/home">hashirshoaeb.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://1199692.github.io">About Me</a>
   </p>
 </p>
 
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=^22.12.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.9.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
@@ -51,15 +48,6 @@
     </li>
     <li>
       <a href="#showcase-">Showcase 🚀</a>
-    </li>
-    <li>
-      <a href="#versão-em-português-brazil">Versão em Português :brazil:</a>
-    </li>
-    <li>
-      <a href="#notice">Notice</a>
-    </li>
-    <li>
-      <a href="#stargazers-over-time">Stargazers over time</a>
     </li>
   </ol>
 </details>
@@ -164,14 +152,14 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at kishankmr.kumar@gmail.com.
 
 # Support my work
 
 If you found this project valuable, please consider giving it a ⭐️ on GitHub. Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
 
 <div>
-  <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://buymeacoffee.com/kishankmr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
  </div>
 
 # Showcase 🚀
@@ -190,16 +178,3 @@ Have you changed something in the code to create your own version? Feel free to 
     </td>
   </tr>
 </table>
-
-# Versão em Português :brazil:
-
-Esse projeto foi traduzido para português! Se você gostou dele e quer criar a sua própria versão, confira o repositório do [@tashima42](https://github.com/tashima42) em [https://github.com/Tashima42/home](https://github.com/Tashima42/home).
-Novas contribuições e revisões na tradução são muito bem vindas!
-
-# Notice:
-
-This project has been **archived**. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
-
-# Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
