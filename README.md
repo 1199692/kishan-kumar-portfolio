@@ -7,7 +7,7 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://1199692.github.io/home">1199692.github.io/home</a>
+    <a href="https://1199692.github.io/kishan-kumar-portfolio/">1199692.github.io/home</a>
     <br />
     <br />
     <a href="https://1199692.github.io">About Me</a>
@@ -54,7 +54,7 @@
 
 # About the project
 
-[![Site preview](/public/site-image.png)](https://1199692.github.io/home)
+[![Site preview](/public/site-image.png)](https://1199692.github.io/kishan-kumar-portfolio/)
 
 
 ## Technology stack 🛠️
@@ -105,7 +105,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/<your-username>/<name-of-your-reacct-project>.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
@@ -116,7 +116,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-    "homepage": "https://<your-username>.github.io/home"
+    "homepage": "https://<your-username>.github.io/<name-of-your-reacct-project>"
    ```
 
    Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
