@@ -6,30 +6,22 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Kishan",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Kumar",
+  message: " Passionate about changing the world with Cloud and Devops Technology ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
-    },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://github.com/1199692",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/kishan-kumar-8a5b93b8/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://x.com/kishan16724",
     },
   ],
 };
@@ -54,12 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/mypic.png"),
   imageSize: 375,
   message:
-    `Azure Architect and DevOps Engineer with 8+ years of experience designing,developing,
-    and implementing cloud-native and DevOps solutions on Microsoft Azure. Proven 
-    ability to optimize cloud adoption strategies, enhance CI/CDpipelines, automate infrastructure 
-    deployment, and enforce cloud securitycompliance. Passionate about cost optimization, performance 
-    tuning, scalablearchitectures, and leveraging Generative AI for intelligent automation and
-    decision-making.`,
+    "Azure Architect and DevOps Engineer with 8+ years of experience designing,developing, and implementing cloud-native and DevOps solutions on Microsoft Azure. Proven ability to optimize cloud adoption strategies, enhance CI/CDpipelines, automate infrastructure deployment, and enforce cloud security compliance. Passionate about cost optimization, performance tuning, scalable architectures, and leveraging Generative AI for intelligent automation and decision-making.",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
