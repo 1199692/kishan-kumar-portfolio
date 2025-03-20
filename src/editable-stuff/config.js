@@ -54,7 +54,12 @@ const about = {
   imageLink: require("../editable-stuff/mypic.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    `Azure Architect and DevOps Engineer with 8+ years of experience designing,developing,
+    and implementing cloud-native and DevOps solutions on Microsoft Azure. Proven 
+    ability to optimize cloud adoption strategies, enhance CI/CDpipelines, automate infrastructure 
+    deployment, and enforce cloud securitycompliance. Passionate about cost optimization, performance 
+    tuning, scalablearchitectures, and leveraging Generative AI for intelligent automation and
+    decision-making.`,
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
