@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "Azure Architect and DevOps Engineer with 8+ years of experience designing,developing, and implementing cloud-native and DevOps solutions on Microsoft Azure. Proven ability to optimize cloud adoption strategies, enhance CI/CDpipelines, automate infrastructure deployment, and enforce cloud security compliance. Passionate about cost optimization, performance tuning, scalable architectures, and leveraging Generative AI for intelligent automation and decision-making.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://www.linkedin.com/in/kishan-kumar-8a5b93b8/",
 };
 
 // PROJECTS SECTION
