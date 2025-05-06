@@ -5,7 +5,7 @@ const repoURL = "https://github.com/1199692/kishan-kumar-portfolio";
 ghpages.publish(
   pathname,
   {
-    branch: "master",
+    branch: "main",
     repo: repoURL,
   },
   (err) => {
