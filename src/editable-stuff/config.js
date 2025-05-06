@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Kishan",
   middleName: "",
   lastName: "Kumar",
-  message: " Passionate about changing the world with Cloud and Devops Technology ",
+  message: " Passionate about changing the world with Cloud and Devops Technology by integrating Data & AI",
   icons: [
     {
       image: "fa-github",
@@ -58,7 +58,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "1199692",
   reposLength: 4,
   specificRepos: [],
 };
@@ -118,8 +118,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for opportunities in Cloud & Devops area amd use the modern technology like generative AI! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "kishankmr.kumar@gmail.com",
 };
 
 const experiences = {
@@ -127,12 +127,12 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
+      role: 'Senior Solution Consultant',// Here Add Company Name
       companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      date: 'October 2024 – Present',
     },
     {
-      role: 'Front-End Developer',
+      role: '',
       companylogo: require('../assets/img/boeing.png'),
       date: 'May 2017 – May 2018',
     },
